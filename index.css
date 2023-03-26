@@ -1,0 +1,20 @@
+
+
+
+
+
+body{
+    background-color: rgb(237, 163, 118);
+}
+
+.preview{
+    position: absolute;
+    top:200px;
+    right:180px;
+    width:900px;
+
+}
+
+.mother_container{
+    font-family: 'DotGothic16', sans-serif;
+}
